@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Eliy_jw32\\Desktop\\Airline-ticket---Entity-Framework-Databse-First--master\\Airline-ticket---Entity-Framework-Databse-First--master\\Airline ticket\\Airline ticket\\Airline ticket.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Eliy_jw32\\Desktop\\Airline-ticket---Entity-Framework-Databse-First--master\\Airline-ticket---Entity-Framework-Databse-First--master\\Airline ticket\\Airline ticket\\Airline ticket.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Eliy_jw32\\Desktop\\Airline-ticket---Entity-Framework-Databse-First--master\\Airline-ticket---Entity-Framework-Databse-First--master\\Airline ticket\\Airline ticket\\Airline ticket.csproj",
+        "projectName": "Airline ticket",
+        "projectPath": "C:\\Users\\Eliy_jw32\\Desktop\\Airline-ticket---Entity-Framework-Databse-First--master\\Airline-ticket---Entity-Framework-Databse-First--master\\Airline ticket\\Airline ticket\\Airline ticket.csproj",
+        "packagesPath": "C:\\Users\\Eliy_jw32\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Eliy_jw32\\Desktop\\Airline-ticket---Entity-Framework-Databse-First--master\\Airline-ticket---Entity-Framework-Databse-First--master\\Airline ticket\\Airline ticket\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Eliy_jw32\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.2.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
